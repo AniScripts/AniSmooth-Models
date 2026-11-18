@@ -1,6 +1,6 @@
 <h1 align="center">Credits</h1>
 
-All models belong to their respective authors. This repository only mirrors weights — no code, no modifications. Models sourced from [TAS-Models-Host](https://github.com/NevermindNilas/TAS-Models-Host) and original authors.
+All models belong to their respective authors. This repository only mirrors weights — no code, no modifications. Models sourced directly from official authors and academic research publications.
 
 ---
 
@@ -19,7 +19,7 @@ All models belong to their respective authors. This repository only mirrors weig
 | `rife414.pth` | Zhewei Huang (hzwer) | [Practical-RIFE](https://github.com/hzwer/Practical-RIFE) |
 | `rife413_lite.pth` | Zhewei Huang (hzwer) | [Practical-RIFE](https://github.com/hzwer/Practical-RIFE) |
 | `rife46.pth` | Zhewei Huang (hzwer) | [Practical-RIFE](https://github.com/hzwer/Practical-RIFE) |
-| `rife_elexor.pth` | Elexor (community RIFE variant) | [Practical-RIFE](https://github.com/hzwer/Practical-RIFE) |
+| `rife47.pth` | Zhewei Huang (hzwer) | [Practical-RIFE](https://github.com/hzwer/Practical-RIFE) |
 | `pervfi.pth` | Zhewei Huang (hzwer) — Megvii Research | [arXiv:2401.11660](https://arxiv.org/abs/2401.11660) |
 
 ---

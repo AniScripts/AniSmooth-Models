@@ -59,7 +59,7 @@ Release tag: **`interpolation`** (RIFE and VFI models).
 | `rife414.pth` | 20.5 MB | |
 | `rife413_lite.pth` | 10.1 MB | |
 | `rife46.pth` | 20.3 MB | |
-| `rife_elexor.pth` | 20.4 MB | |
+| `rife47.pth` | 20.4 MB | |
 | `pervfi.pth` | 33.4 MB | |
 
 ---
