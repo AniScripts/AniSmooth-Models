@@ -70,7 +70,6 @@ Release tag: **`upscale`** (anime and video upscalers).
 
 | File | Size | Used |
 | :-- | --: | :-: |
-| `adore.pth` | 5.4 MB | ✓ |
 | `Fallin_soft.pth` | 5.4 MB | ✓ |
 | `Fallin_strong.pth` | 5.4 MB | ✓ |
 | `sudo_shuffle_cugan_9.584.969.pth` | 5.4 MB | ✓ |
@@ -125,7 +124,6 @@ AniSmooth downloads these automatically, no manual step needed. Each file is ver
 | :-- | :-- |
 | `rife425.pth` | `040ed973997570f4f85489be3d8eb64be9c0cffdf0a9f049443b6a4838ed88f1` |
 | `rife425_heavy.pth` | `49f7c82d3866860683992042ba8eb559b9c01fbe2600b80a53c56de05bb13b6f` |
-| `adore.pth` | `443378bdc6db6cf4a75eea61ee7afc78b2c4b6a4d3b3981a40ff61f38bbc8f1a` |
 | `Fallin_soft.pth` | `910aa56a9a1187df97c3284177da1bc66836679350b2613191340734937e9960` |
 | `Fallin_strong.pth` | `14b8415199aa66a6507725408a66758ba2bff9286736f19f7f07524efd821a56` |
 | `sudo_shuffle_cugan_9.584.969.pth` | `88a6d89f04eaf27a9f7b60937857768a6bc04fb360670bd9951ef533acab0616` |
@@ -141,6 +139,5 @@ Place a file at:
 %APPDATA%\com.moongetsu.extensions\AniSmooth\backend\weights\<model-key>\<filename>
 ```
 
-Example: `...\weights\adore\adore.pth`.
 
 </details>

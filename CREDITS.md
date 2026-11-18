@@ -28,7 +28,6 @@ All models belong to their respective authors. This repository only mirrors weig
 
 | File | Author(s) | Source |
 | :-- | :-- | :-- |
-| `adore.pth` · `Fallin_soft.pth` · `Fallin_strong.pth` | renarchi | [Re-SISR](https://github.com/renarchi/Re-SISR) |
 | `sudo_shuffle_cugan_9.584.969.pth` | styler00dollar (based on bilibili/ailab Real-CUGAN) | [VSGAN-tensorrt-docker](https://github.com/styler00dollar/VSGAN-tensorrt-docker) |
 | `AnimeSR_v2.pth` | Tencent ARC Lab (Yanze Wu, Xintao Wang, Gen Li, Ying Shan) | [AnimeSR](https://github.com/TencentARC/AnimeSR) |
 | `2x_ModernSpanimationV2.pth` · `V1.5` · `V1` | Zarxrax | [OpenModelDB](https://openmodeldb.info/) |
